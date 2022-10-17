@@ -1,4 +1,5 @@
 #include<stdio.h>
+// entr amnt and find no of 2k , 500,100 notes
 int main(){
     int d,t,f,o;
     printf("Enter amount:");
